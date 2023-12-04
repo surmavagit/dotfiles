@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/fanofmaps/repos/fem-deep-js-foundations/deep-js-foundations-v2-exercises/objects-exercises/class'
+let g:netrw_dirhist_4='/home/fanofmaps/repos/fem-deep-js-foundations/deep-js-foundations-v2-exercises/objects-exercises'
+let g:netrw_dirhist_3='/home/fanofmaps/repos/fem-deep-js-foundations/deep-js-foundations-v2-exercises/objects-exercises/class'
+let g:netrw_dirhist_2='/home/fanofmaps/repos/fem-deep-js-foundations/deep-js-foundations-v2-exercises/objects-exercises/this'
+let g:netrw_dirhist_1='/home/fanofmaps/repos/fem-deep-js-foundations/deep-js-foundations-v2-exercises/scope-exercises/modules'
+let g:netrw_dirhist_0='/home/fanofmaps/repos/fem-deep-js-foundations/deep-js-foundations-v2-exercises/scope-exercises/hoisting'
+let g:netrw_dirhist_9='/home/fanofmaps/repos/fem-deep-js-foundations/deep-js-foundations-v2-exercises/scope-exercises/function-expressions'
+let g:netrw_dirhist_8='/home/fanofmaps/repos/fem-deep-js-foundations/deep-js-foundations-v2-exercises/types-exercises/equality'
+let g:netrw_dirhist_7='/home/fanofmaps/repos/fem-deep-js-foundations/deep-js-foundations-v2-exercises/types-exercises/coercion'
+let g:netrw_dirhist_6='/home/fanofmaps/repos/fem-deep-js-foundations/deep-js-foundations-v2-exercises/types-exercises/object-is'
