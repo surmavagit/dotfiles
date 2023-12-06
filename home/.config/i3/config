@@ -182,3 +182,9 @@ bar {
 
 #keyboard layouts
 exec "setxkbmap -option 'grp:alt_shift_toggle' -layout us,ru ,, -option 'caps:escape_shifted_capslock'"
+
+
+
+#restore wallpaper settings
+exec --no-startup-id nitrogen --restore
+
